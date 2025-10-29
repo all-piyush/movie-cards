@@ -1,0 +1,45 @@
+.card{
+    height: 23rem;
+    width: 19rem;
+    background-color: #FFFFFF;
+    overflow: hidden;
+    border-radius: 0.5rem;
+    color:#1e1e1e;
+    position: relative;
+}
+img{
+    height: 10rem;
+    width: 19rem;
+}
+.about{
+    padding: 0 1rem 0 1rem;
+}
+p,span{
+    margin:0.5rem 0 0 0 ;
+    padding: 0re;
+}
+.title,.date{
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.date{
+    display: inline-block;
+}
+.card-but{
+    position: absolute;
+    right:0.7rem;
+    top:8rem;
+    height:2.7rem;
+    width: 2.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.heart{
+    height:2rem;
+    width: 2rem;
+}
