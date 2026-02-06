@@ -1,5 +1,5 @@
 .card{
-    height: 23rem;
+    height: 23%;
     width: 19rem;
     background-color: #FFFFFF;
     overflow: hidden;
@@ -16,7 +16,7 @@ img{
 }
 p,span{
     margin:0.5rem 0 0 0 ;
-    padding: 0re;
+    padding: 0rem;
 }
 .title,.date{
     font-size: 1.1rem;
